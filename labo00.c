@@ -6,9 +6,9 @@
  * Compilateur : VS2019
  *
  * Description :
- * - affiche le nombre d'arguments donnés au programme,
- * - affiche la liste des arguments donnés au programme (un argument par ligne),
- * - renvoie un code retour égal au nombre d'arguments.
+ * - affiche le nombre d'arguments donnes au programme,
+ * - affiche la liste des arguments donnes au programme (un argument par ligne),
+ * - renvoie un code retour egal au nombre d'arguments.
  *
  * Remarque(s) :
  * ...
@@ -17,7 +17,7 @@
  * Date         Auteur      Commentaires
  * ...          ...         ...
  */
-#define MAX 100 //la limite de caractère -1
+#define MAX 100 //la limite de caractï¿½re -1
 #define _CRT_SECURE_NO_WARNINGS
  // Bibliotheques utilisees
 #include <stdio.h> 
